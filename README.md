@@ -1,2 +1,2 @@
 # NovaCord
-.
+still developing it
